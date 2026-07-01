@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://himanshu-kumar-2301.github.io/fcc-shape-manager",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
